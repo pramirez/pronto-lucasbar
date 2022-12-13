@@ -1,0 +1,1237 @@
+<!doctype html>
+<html lang="en" class="static-site">
+ <head> 
+  <link rel="canonical" href="https://www.tootsiescabaret.com/bottle-menu"> 
+  <script>(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':
+new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],
+j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
+'//www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);
+})(window,document,'script','dataLayer','GTM-KZNZQTD');</script> 
+  <meta name="google-site-verification" content="icFAZjJEEu_-CMo33-9C7TiHOEUvsjwJXQeks1C4rFw"> 
+  <meta charset="utf-8"> 
+  <meta http-equiv="X-UA-Compatible" content="IE=edge"> 
+  <meta name="viewport" content="width=device-width, initial-scale=1"> 
+  <meta name="description" content="Contactless Bottle Service Menu"> 
+  <title>Bottle Service Menu</title> 
+  <!--<link rel="icon" type="image/png" sizes="32x32" href="/icon/favicon-32x32.png">
+<link rel="icon" type="image/png" sizes="96x96" href="/icon/favicon-96x96.png">
+<link rel="apple-touch-icon" sizes="57x57" href="/icon/apple-icon-57x57.png">
+<link rel="apple-touch-icon" sizes="114x114" href="/icon/apple-icon-114x114.png">
+---> 
+  <link rel="shortcut icon" href="/images/sites/32/favicon3.ico"> 
+  <link href="//code.jquery.com/ui/1.12.1/themes/base/jquery-ui.css" rel="stylesheet"> 
+  <link href="//maxcdn.bootstrapcdn.com/bootstrap/3.3.2/css/bootstrap.min.css" rel="stylesheet"> 
+  <link href="//cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css" rel="stylesheet"> 
+  <link href="//cdnjs.cloudflare.com/ajax/libs/animate.css/3.5.2/animate.min.css" rel="stylesheet"> 
+  <link href="//cdnjs.cloudflare.com/ajax/libs/jquery.mb.YTPlayer/3.1.5/css/jquery.mb.YTPlayer.min.css" rel="stylesheet"> 
+  <link href="//cdnjs.cloudflare.com/ajax/libs/OwlCarousel2/2.0.0-beta.2.4/assets/owl.carousel.min.css" rel="stylesheet"> 
+  <link href="//cdnjs.cloudflare.com/ajax/libs/prettyPhoto/3.1.6/css/prettyPhoto.min.css" rel="stylesheet"> 
+  <link href="//cdnjs.cloudflare.com/ajax/libs/magnific-popup.js/1.1.0/magnific-popup.min.css" rel="stylesheet" type="text/css"> 
+  <link href="/masterslider/style/masterslider.css" rel="stylesheet"> 
+  <link href="/masterslider/skins/default/style.css" rel="stylesheet" type="text/css"> 
+  <link href="/bower_components/lightbox2/dist/css/lightbox.css" rel="stylesheet"> 
+  <link href="/css/revolution.css" rel="stylesheet" type="text/css" media="screen"> 
+  <link href="/style.css?v2.0" rel="stylesheet" type="text/css"> 
+  <link href="/fonts.css" rel="stylesheet" type="text/css" media="none" onload="if(media!='all')media='all'"> 
+  <!--[if lt IE 9]>
+<script src="//oss.maxcdn.com/html5shiv/3.7.2/html5shiv.min.js"></script>
+<script src="//oss.maxcdn.com/respond/1.4.2/respond.min.js"></script>
+<![endif]--> 
+ </head> 
+ <body class="royale"> 
+  <div id="content-wrap"> 
+   <noscript>
+    <iframe src="//www.googletagmanager.com/ns.html?id=GTM-KZNZQTD" height="0" width="0" style="display:none;visibility:hidden"></iframe>
+   </noscript> 
+   <div id="preloader" class="page-loader">
+    <div class="spinner one"></div>
+   </div> 
+   <!-- header --> 
+   <header id="top-header" class="royale top-header navbar-inverse navbar navbar-fixed-top navbar-headroom yamm"> 
+    <div class="container"> 
+     <div class="pull-right nav-header-right"> 
+     </div> 
+     <div class="navbar-header"> 
+      <button type="button" class="navbar-toggle collapsed" data-toggle="collapse" data-target="#navbar" aria-expanded="false" aria-controls="navbar"> <span class="sr-only">Toggle navigation</span> <span class="icon-bar"></span> <span class="icon-bar"></span> <span class="icon-bar"></span> </button> 
+      <a class="navbar-brand" href="/"><img src="/images/sites/32/logo.png" alt="Tootsie's Cabaret" class="img-responsive"></a> 
+      <ul class="list-inline mobile-contact"> 
+       <li><a href="tel:(305)651.5822" class="call-click"><i class="fa fa-phone-square"></i> (305)651.5822</a></li> 
+       <li><a href="https://maps.google.com?daddr=150+NW+183rd+St<br>Miami+Gardens+FL+33169" class="map-click" target="_blank"><i class="fa fa-map-marker"></i> get directions</a></li> 
+      </ul> 
+     </div> 
+     <div id="navbar" class="navbar-collapse collapse"> 
+      <ul class="nav navbar-right navbar-nav"> 
+       <li class="dropdown"> <a href="/">Home</a> </li> 
+       <li class="dropdown"> <a href="/about-us">The Club</a> </li> 
+       <li class="dropdown"> <a href="/knockers">Knockers</a> </li> 
+       <li class="dropdown active"> <a href="/menus" class="dropdown-toggle js-activated" data-target="#" data-toggle="dropdown" role="button" aria-haspopup="true" aria-expanded="false">Menus <span class="fa fa-angle-down"></span></a> 
+        <ul class="dropdown-menu dark-dropdown"> 
+         <li><a href="/menu">Menu</a></li> 
+         <li class="active"><a href="/bottle-menu">Bottle Service Menu</a></li> 
+         <li><a href="/next-level-menu">Next Level Menu</a></li> 
+         <li><a href="/cigars">Cigars</a></li> 
+        </ul> </li> 
+       <li class="dropdown"> <a href="/vip-packages">VIP Packages</a> </li> 
+       <li class="dropdown"> <a href="/gallery">Gallery</a> </li> 
+       <li class="dropdown"> <a href="/events">Events</a> </li> 
+       <li class="dropdown"> <a href="/shop">Shop</a> </li> 
+       <li class="dropdown"> <a href="/contact" class="dropdown-toggle js-activated" data-target="#" data-toggle="dropdown" role="button" aria-haspopup="true" aria-expanded="false">Contact <span class="fa fa-angle-down"></span></a> 
+        <ul class="dropdown-menu dark-dropdown"> 
+         <li><a href="/careers">Careers</a></li> 
+         <li><a href="/entertainers">Entertainers</a></li> 
+         <li><a href="/contact" target="_blank">Contact Us</a></li> 
+        </ul> </li> 
+      </ul> 
+     </div> 
+    </div> 
+   </header> 
+   <div id="breadcrumb_325" class="breadcrumb-v1 b-parllax"> 
+    <div class="container"> 
+     <div class="row"> 
+      <div class="col-md-12"> 
+       <p>BOTTLE SERVICE MENU</p> 
+      </div> 
+      <div class="col-sm-6"> 
+       <ol class="breadcrumb"> 
+        <li><a href="/"><i class="fa fa-home"></i></a></li> 
+        <li><a href="/menus">Menus</a></li> 
+        <li class="active"></li> 
+       </ol> 
+      </div> 
+     </div> 
+    </div> 
+   </div> 
+   <div id="menu1_3667" class="container mod_menu1"> 
+    <div class="row"> 
+     <div class="col-sm-6"> 
+      <ul class="media-list"> 
+       <li class="text-center"><h3>~ Vodka ~</h3></li> 
+       <li class="media"> 
+        <div class="media-body">
+         <b>ABSOLUT</b>
+        </div> 
+        <div class="media-right">
+         $300
+        </div> </li> 
+       <li class="media"> 
+        <div class="media-body">
+         <b>BELVEDERE</b>
+        </div> 
+        <div class="media-right">
+         $300
+        </div> </li> 
+       <li class="media"> 
+        <div class="media-body">
+         <b>BELVEDERE MAGNUM</b>
+        </div> 
+        <div class="media-right">
+         $500
+        </div> </li> 
+       <li class="media"> 
+        <div class="media-body">
+         <b>CIROC &amp; FLAVORS</b>
+        </div> 
+        <div class="media-right">
+         $300
+        </div> </li> 
+       <li class="media"> 
+        <div class="media-body">
+         <b>CIROC &amp; FLAVORS MAG</b>
+        </div> 
+        <div class="media-right">
+         $500
+        </div> </li> 
+       <li class="media"> 
+        <div class="media-body">
+         <b>GREY GOOSE &amp; FLAVORS</b>
+        </div> 
+        <div class="media-right">
+         $300
+        </div> </li> 
+       <li class="media"> 
+        <div class="media-body">
+         <b>GREY GOOSE MAGNUM</b>
+        </div> 
+        <div class="media-right">
+         $500
+        </div> </li> 
+       <li class="media"> 
+        <div class="media-body">
+         <b>KETEL ONE</b>
+        </div> 
+        <div class="media-right">
+         $300
+        </div> </li> 
+       <li class="media"> 
+        <div class="media-body">
+         <b>STOLI</b>
+        </div> 
+        <div class="media-right">
+         $300
+        </div> </li> 
+       <li class="media"> 
+        <div class="media-body">
+         <b>TITOS</b>
+        </div> 
+        <div class="media-right">
+         $300
+        </div> </li> 
+       <li class="media"> 
+        <div class="media-body">
+         <b>TITOS MAGNUM</b>
+        </div> 
+        <div class="media-right">
+         $500
+        </div> </li> 
+       <li class="text-center"><h3>~ GIN ~</h3></li> 
+       <li class="media"> 
+        <div class="media-body">
+         <b>BOMBAY SAPPHIRE</b>
+        </div> 
+        <div class="media-right">
+         $250
+        </div> </li> 
+       <li class="media"> 
+        <div class="media-body">
+         <b>TANQUERAY</b>
+        </div> 
+        <div class="media-right">
+         $250
+        </div> </li> 
+       <li class="media"> 
+        <div class="media-body">
+         <b>HENDRICKS</b>
+        </div> 
+        <div class="media-right">
+         $250
+        </div> </li> 
+       <li class="text-center"><h3>~ RUM ~</h3></li> 
+       <li class="media"> 
+        <div class="media-body">
+         <b>BACARDI &amp; FLAVORS</b>
+        </div> 
+        <div class="media-right">
+         $250
+        </div> </li> 
+       <li class="media"> 
+        <div class="media-body">
+         <b>BACARDI 8 YEARS</b>
+        </div> 
+        <div class="media-right">
+         $300
+        </div> </li> 
+       <li class="media"> 
+        <div class="media-body">
+         <b>CAPTAIN MORGAN SPICED</b>
+        </div> 
+        <div class="media-right">
+         $250
+        </div> </li> 
+       <li class="media"> 
+        <div class="media-body">
+         <b>DON Q</b>
+        </div> 
+        <div class="media-right">
+         $250
+        </div> </li> 
+       <li class="media"> 
+        <div class="media-body">
+         <b>DON Q GRAN ANEJO</b>
+        </div> 
+        <div class="media-right">
+         $500
+        </div> </li> 
+       <li class="media"> 
+        <div class="media-body">
+         <b>MYERS'S</b>
+        </div> 
+        <div class="media-right">
+         $250
+        </div> </li> 
+       <li class="media"> 
+        <div class="media-body">
+         <b>RON ZACAPA 23YR (750ML) </b>
+        </div> 
+        <div class="media-right">
+         $325
+        </div> </li> 
+       <li class="text-center"><h3>~ TEQUILA ~</h3></li> 
+       <li class="media"> 
+        <div class="media-body">
+         <b>1800 REPOSADO</b>
+        </div> 
+        <div class="media-right">
+         $300
+        </div> </li> 
+       <li class="media"> 
+        <div class="media-body">
+         <b>AVION 44 ANEJO MAGNUM</b>
+        </div> 
+        <div class="media-right">
+         $950
+        </div> </li> 
+       <li class="media"> 
+        <div class="media-body">
+         <b>AVION 44</b>
+        </div> 
+        <div class="media-right">
+         $350
+        </div> </li> 
+       <li class="media"> 
+        <div class="media-body">
+         <b>AVION SILVER</b>
+        </div> 
+        <div class="media-right">
+         $300
+        </div> </li> 
+       <li class="media"> 
+        <div class="media-body">
+         <b>Clase Azul Plata</b>
+        </div> 
+        <div class="media-right">
+         $375
+        </div> </li> 
+       <li class="media"> 
+        <div class="media-body">
+         <b>Casa Noble Blanco</b>
+        </div> 
+        <div class="media-right">
+         $275
+        </div> </li> 
+       <li class="media"> 
+        <div class="media-body">
+         <b>Casa Noble Reposado</b>
+        </div> 
+        <div class="media-right">
+         $350
+        </div> </li> 
+       <li class="media"> 
+        <div class="media-body">
+         <b>Casa Noble Anejo</b>
+        </div> 
+        <div class="media-right">
+         $400
+        </div> </li> 
+       <li class="media"> 
+        <div class="media-body">
+         <b>CASAMIGOS BLANCO</b>
+        </div> 
+        <div class="media-right">
+         $375
+        </div> </li> 
+       <li class="media"> 
+        <div class="media-body">
+         <b>CASAMIGOS REPOSADO</b>
+        </div> 
+        <div class="media-right">
+         $425
+        </div> </li> 
+       <li class="media"> 
+        <div class="media-body">
+         <b>Clase Azul Reposado</b>
+        </div> 
+        <div class="media-right">
+         $650
+        </div> </li> 
+       <li class="media"> 
+        <div class="media-body">
+         <b>CLASE AZUL REPOSADO MAGNUM</b>
+        </div> 
+        <div class="media-right">
+         $1400
+        </div> </li> 
+       <li class="media"> 
+        <div class="media-body">
+         <b>CINCORO ANEJO</b>
+        </div> 
+        <div class="media-right">
+         $550
+        </div> </li> 
+       <li class="media"> 
+        <div class="media-body">
+         <b>DELEON PLATINUM</b>
+        </div> 
+        <div class="media-right">
+         $300
+        </div> </li> 
+       <li class="media"> 
+        <div class="media-body">
+         <b>DELEON REPOSADO</b>
+        </div> 
+        <div class="media-right">
+         $325
+        </div> </li> 
+       <li class="media"> 
+        <div class="media-body">
+         <b>DON JULIO BLANCO</b>
+        </div> 
+        <div class="media-right">
+         $300
+        </div> </li> 
+       <li class="media"> 
+        <div class="media-body">
+         <b>DON JULIO REPOSADO</b>
+        </div> 
+        <div class="media-right">
+         $375
+        </div> </li> 
+       <li class="media"> 
+        <div class="media-body">
+         <b>DON JULIO ANEJO</b>
+        </div> 
+        <div class="media-right">
+         $425
+        </div> </li> 
+       <li class="media"> 
+        <div class="media-body">
+         <b>DON JULIO 1942 PRIMAVERA REPOSADO</b>
+        </div> 
+        <div class="media-right">
+         $475
+        </div> </li> 
+       <li class="media"> 
+        <div class="media-body">
+         <b>DON JULIO 1942</b>
+        </div> 
+        <div class="media-right">
+         $650
+        </div> </li> 
+       <li class="media"> 
+        <div class="media-body">
+         <b>DON JULIO 1942 MAGNUM</b>
+        </div> 
+        <div class="media-right">
+         $1650
+        </div> </li> 
+       <li class="media"> 
+        <div class="media-body">
+         <b>JAJA BLANCO</b>
+        </div> 
+        <div class="media-right">
+         $300
+        </div> </li> 
+       <li class="media"> 
+        <div class="media-body">
+         <b>JAJA REPOSADO</b>
+        </div> 
+        <div class="media-right">
+         $325
+        </div> </li> 
+       <li class="media"> 
+        <div class="media-body">
+         <b>JAJA ANEJO</b>
+        </div> 
+        <div class="media-right">
+         $350
+        </div> </li> 
+       <li class="media"> 
+        <div class="media-body">
+         <b>JOSE QUERVO ESPECIAL</b>
+        </div> 
+        <div class="media-right">
+         $300
+        </div> </li> 
+       <li class="media"> 
+        <div class="media-body">
+         <b>PATRON ANEJO</b>
+        </div> 
+        <div class="media-right">
+         $350
+        </div> </li> 
+       <li class="media"> 
+        <div class="media-body">
+         <b>PATRON REPOSADO</b>
+        </div> 
+        <div class="media-right">
+         $325
+        </div> </li> 
+       <li class="media"> 
+        <div class="media-body">
+         <b>PATRON SILVER</b>
+        </div> 
+        <div class="media-right">
+         $300
+        </div> </li> 
+       <li class="media"> 
+        <div class="media-body">
+         <b>PATRON GRAN PLATINUM</b>
+        </div> 
+        <div class="media-right">
+         $475
+        </div> </li> 
+       <li class="media"> 
+        <div class="media-body">
+         <b>Cincoro Extra Anejo Magnum </b>
+        </div> 
+        <div class="media-right">
+         $9000
+        </div> </li> 
+       <li class="text-center"><h3>~ SCOTCH ~</h3></li> 
+       <li class="media"> 
+        <div class="media-body">
+         <b>CHIVAS REGAL</b>
+        </div> 
+        <div class="media-right">
+         $300
+        </div> </li> 
+       <li class="media"> 
+        <div class="media-body">
+         <b>CHIVAS REGAL 18 YEARS</b>
+        </div> 
+        <div class="media-right">
+         $400
+        </div> </li> 
+       <li class="media"> 
+        <div class="media-body">
+         <b>BUCHANAN'S</b>
+        </div> 
+        <div class="media-right">
+         $300
+        </div> </li> 
+       <li class="media"> 
+        <div class="media-body">
+         <b>DEWARS WHITE LABEL</b>
+        </div> 
+        <div class="media-right">
+         $300
+        </div> </li> 
+       <li class="media"> 
+        <div class="media-body">
+         <b>DEWARS 12 YEARS</b>
+        </div> 
+        <div class="media-right">
+         $300
+        </div> </li> 
+       <li class="media"> 
+        <div class="media-body">
+         <b>GLENLIVET</b>
+        </div> 
+        <div class="media-right">
+         $300
+        </div> </li> 
+       <li class="media"> 
+        <div class="media-body">
+         <b>JOHNNIE WALKER BLACK</b>
+        </div> 
+        <div class="media-right">
+         $300
+        </div> </li> 
+       <li class="media"> 
+        <div class="media-body">
+         <b>JOHNNIE WALKER BLUE (750ML)</b>
+        </div> 
+        <div class="media-right">
+         $625
+        </div> </li> 
+       <li class="media"> 
+        <div class="media-body">
+         <b>JOHNNIE WALKER ODYSSEY (750ML)</b>
+        </div> 
+        <div class="media-right">
+         $2000
+        </div> </li> 
+       <li class="media"> 
+        <div class="media-body">
+         <b>THE JOHN WALKER (750ML)</b>
+        </div> 
+        <div class="media-right">
+         $5500
+        </div> </li> 
+       <li class="media"> 
+        <div class="media-body">
+         <b>MACALLAN RARE (750ML)</b>
+        </div> 
+        <div class="media-right">
+         $650
+        </div> </li> 
+       <li class="media"> 
+        <div class="media-body">
+         <b>MACALLAN 12 YEARS (750ML)</b>
+        </div> 
+        <div class="media-right">
+         $350
+        </div> </li> 
+       <li class="text-center"><h3>~ BOURBON BLENDS ~</h3></li> 
+       <li class="media"> 
+        <div class="media-body">
+         <b>CROWN ROYAL</b>
+        </div> 
+        <div class="media-right">
+         $300
+        </div> </li> 
+       <li class="media"> 
+        <div class="media-body">
+         <b>JACK DANIELS</b>
+        </div> 
+        <div class="media-right">
+         $300
+        </div> </li> 
+       <li class="media"> 
+        <div class="media-body">
+         <b>FIREBALL</b>
+        </div> 
+        <div class="media-right">
+         $275
+        </div> </li> 
+       <li class="media"> 
+        <div class="media-body">
+         <b>SOUTHERN COMFORT</b>
+        </div> 
+        <div class="media-right">
+         $300
+        </div> </li> 
+       <li class="media"> 
+        <div class="media-body">
+         <b>MAKERS MARK</b>
+        </div> 
+        <div class="media-right">
+         $300
+        </div> </li> 
+       <li class="media"> 
+        <div class="media-body">
+         <b>JAMESON</b>
+        </div> 
+        <div class="media-right">
+         $300
+        </div> </li> 
+       <li class="text-center"><h3>~ WINES ~</h3></li> 
+       <li class="media"> 
+        <div class="media-body">
+         <b>ROSE'</b> 
+         <br> HAMPTON WATER ROSE $125 
+         <br> 
+         <b>WHITE</b>
+         <br> CAKEBREAD CELLARS, CHARDONNAY $125 
+         <br> SANTA MARGHERITA PINOT GRIGIO $100 
+         <br>CRAGGY RANGE SAUVIGNON BLANC $100 
+         <br>GANCIA, MOSCATO D' ASTI $100 
+         <br> 
+         <b>RED </b>
+         <br> OPUS ONE BORDEUAX BLEND $700 
+         <br> SILVER OAK CABERNET SAUVIGNON $225 
+         <br>DUCKHORN MERLOT $175 
+         <br>CHALK HILL ESTATE PINOT NOIR $125 
+        </div> 
+        <div class="media-right">
+         MP
+        </div> </li> 
+      </ul> 
+     </div> 
+     <div class="col-sm-6"> 
+      <ul class="media-list"> 
+       <li class="text-center"><h3>~ Champagne ~</h3></li> 
+       <li class="media"> 
+        <div class="media-body">
+         <b>ARMAND DE BRIGNAC (ACE OF SPADES)</b>
+        </div> 
+        <div class="media-right">
+         $650
+        </div> </li> 
+       <li class="media"> 
+        <div class="media-body">
+         <b>DOM PERIGNON</b>
+        </div> 
+        <div class="media-right">
+         $600
+        </div> </li> 
+       <li class="media"> 
+        <div class="media-body">
+         <b>DOM PERIGNON ROSE</b>
+        </div> 
+        <div class="media-right">
+         $750
+        </div> </li> 
+       <li class="media"> 
+        <div class="media-body">
+         <b>LOUIS ROEDERER CRISTAL</b>
+        </div> 
+        <div class="media-right">
+         $500
+        </div> </li> 
+       <li class="media"> 
+        <div class="media-body">
+         <b>LOUIS ROEDERER CRISTAL ROSE</b>
+        </div> 
+        <div class="media-right">
+         $925
+        </div> </li> 
+       <li class="media"> 
+        <div class="media-body">
+         <b>LA GRANDE DAME BRUT</b>
+        </div> 
+        <div class="media-right">
+         $400
+        </div> </li> 
+       <li class="media"> 
+        <div class="media-body">
+         <b>LA GRANDE DAME ROSE</b>
+        </div> 
+        <div class="media-right">
+         $500
+        </div> </li> 
+       <li class="media"> 
+        <div class="media-body">
+         <b>LUC BELAIRE BRUT</b>
+        </div> 
+        <div class="media-right">
+         $250
+        </div> </li> 
+       <li class="media"> 
+        <div class="media-body">
+         <b>LUC BELAIRE ROSE</b>
+        </div> 
+        <div class="media-right">
+         $275
+        </div> </li> 
+       <li class="media"> 
+        <div class="media-body">
+         <b>KRUG BRUT</b>
+        </div> 
+        <div class="media-right">
+         $550
+        </div> </li> 
+       <li class="media"> 
+        <div class="media-body">
+         <b>KRUG ROSE</b>
+        </div> 
+        <div class="media-right">
+         $650
+        </div> </li> 
+       <li class="media"> 
+        <div class="media-body">
+         <b>MOET &amp; CHANDON IMPERIAL</b>
+        </div> 
+        <div class="media-right">
+         $275
+        </div> </li> 
+       <li class="media"> 
+        <div class="media-body">
+         <b>MOET &amp; CHANDON NECTAR IMPERIAL</b>
+        </div> 
+        <div class="media-right">
+         $300
+        </div> </li> 
+       <li class="media"> 
+        <div class="media-body">
+         <b>Moet &amp; Chandon Ice Imperial</b>
+        </div> 
+        <div class="media-right">
+         $375
+        </div> </li> 
+       <li class="media"> 
+        <div class="media-body">
+         <b>MOET &amp; CHANDON ROSE IMPERIAL</b>
+        </div> 
+        <div class="media-right">
+         $300
+        </div> </li> 
+       <li class="media"> 
+        <div class="media-body">
+         <b>MOET &amp; CHANDON NECTAR IMPERIAL ROSE</b>
+        </div> 
+        <div class="media-right">
+         $325
+        </div> </li> 
+       <li class="media"> 
+        <div class="media-body">
+         <b>PIPER HEIDSIECK CUVEE BRUT</b>
+        </div> 
+        <div class="media-right">
+         $250
+        </div> </li> 
+       <li class="media"> 
+        <div class="media-body">
+         <b>TATTINGER NOCTURNE</b>
+        </div> 
+        <div class="media-right">
+         $300
+        </div> </li> 
+       <li class="media"> 
+        <div class="media-body">
+         <b>TATTINGER PRESTIGE ROSE</b>
+        </div> 
+        <div class="media-right">
+         $250
+        </div> </li> 
+       <li class="media"> 
+        <div class="media-body">
+         <b>TATTINGER COMTES DE CHAMP BLANC</b>
+        </div> 
+        <div class="media-right">
+         $350
+        </div> </li> 
+       <li class="media"> 
+        <div class="media-body">
+         <b>TATTINGER COMTES DE CHAMP ROSE</b>
+        </div> 
+        <div class="media-right">
+         $400
+        </div> </li> 
+       <li class="media"> 
+        <div class="media-body">
+         <b>VEUVE CLICQUOT YELLOW LABEL</b>
+        </div> 
+        <div class="media-right">
+         $275
+        </div> </li> 
+       <li class="media"> 
+        <div class="media-body">
+         <b>VEUVE CLICQUOT YELLOW LABEL ROSE</b>
+        </div> 
+        <div class="media-right">
+         $325
+        </div> </li> 
+       <li class="text-center"><h3>~ MAGNUMS ~</h3></li> 
+       <li class="media"> 
+        <div class="media-body">
+         <b>DOM PERIGNON</b>
+        </div> 
+        <div class="media-right">
+         $1000
+        </div> </li> 
+       <li class="media"> 
+        <div class="media-body">
+         <b>LUC BELAIRE BRUT</b>
+        </div> 
+        <div class="media-right">
+         $350
+        </div> </li> 
+       <li class="media"> 
+        <div class="media-body">
+         <b>LUC BELAIRE BRUT 3.0L</b>
+        </div> 
+        <div class="media-right">
+         $675
+        </div> </li> 
+       <li class="media"> 
+        <div class="media-body">
+         <b>LUC BELAIRE ROSE</b>
+        </div> 
+        <div class="media-right">
+         $375
+        </div> </li> 
+       <li class="media"> 
+        <div class="media-body">
+         <b>LUC BELAIRE ROSE 3.0L</b>
+        </div> 
+        <div class="media-right">
+         $625
+        </div> </li> 
+       <li class="media"> 
+        <div class="media-body">
+         <b>MOET &amp; CHANDON IMPERIAL</b>
+        </div> 
+        <div class="media-right">
+         $375
+        </div> </li> 
+       <li class="media"> 
+        <div class="media-body">
+         <b>MOET &amp; CHANDON NECTAR IMPERIAL</b>
+        </div> 
+        <div class="media-right">
+         $425
+        </div> </li> 
+       <li class="media"> 
+        <div class="media-body">
+         <b>MOET &amp; CHANDON ROSE IMPERIAL</b>
+        </div> 
+        <div class="media-right">
+         $525
+        </div> </li> 
+       <li class="media"> 
+        <div class="media-body">
+         <b>MOET &amp; CHANDON NECTAR IMPERIAL ROSE</b>
+        </div> 
+        <div class="media-right">
+         $450
+        </div> </li> 
+       <li class="media"> 
+        <div class="media-body">
+         <b>VEUVE CLICQUOT YELLOW LABEL</b>
+        </div> 
+        <div class="media-right">
+         $425
+        </div> </li> 
+       <li class="media"> 
+        <div class="media-body">
+         <b>VEUVE CLICQUOT ROSE</b>
+        </div> 
+        <div class="media-right">
+         $475
+        </div> </li> 
+       <li class="text-center"><h3>~ SPLITS ~</h3></li> 
+       <li class="media"> 
+        <div class="media-body">
+         <b>LUC BELAIRE BRUT/ROSE</b>
+        </div> 
+        <div class="media-right">
+         $25
+        </div> </li> 
+       <li class="media"> 
+        <div class="media-body">
+         <b>VEUVE (375ML)</b>
+        </div> 
+        <div class="media-right">
+         $60
+        </div> </li> 
+       <li class="text-center"><h3>~ WINE SPLITS ~</h3></li> 
+       <li class="media"> 
+        <div class="media-body">
+         <b>MERLOT</b>
+        </div> 
+        <div class="media-right">
+         $8
+        </div> </li> 
+       <li class="media"> 
+        <div class="media-body">
+         <b>BILLIONAIRE ROW BRUT ROSE </b>
+        </div> 
+        <div class="media-right">
+         $200
+        </div> </li> 
+       <li class="media"> 
+        <div class="media-body">
+         <b>MOSCATO</b>
+        </div> 
+        <div class="media-right">
+         $8
+        </div> </li> 
+       <li class="text-center"><h3>~ COGNAC (750ML) ~</h3></li> 
+       <li class="media"> 
+        <div class="media-body">
+         <b>COUVOSIER VSOP (LITRE)</b>
+        </div> 
+        <div class="media-right">
+         $275
+        </div> </li> 
+       <li class="media"> 
+        <div class="media-body">
+         <b>D'USSE VSOP</b>
+        </div> 
+        <div class="media-right">
+         $300
+        </div> </li> 
+       <li class="media"> 
+        <div class="media-body">
+         <b>HENNESSEY VS (LITRE)</b>
+        </div> 
+        <div class="media-right">
+         $325
+        </div> </li> 
+       <li class="media"> 
+        <div class="media-body">
+         <b>HENNESSEY VSOP</b>
+        </div> 
+        <div class="media-right">
+         $425
+        </div> </li> 
+       <li class="media"> 
+        <div class="media-body">
+         <b>HENNESSEY PARADIS</b>
+        </div> 
+        <div class="media-right">
+         $2600
+        </div> </li> 
+       <li class="media"> 
+        <div class="media-body">
+         <b>HENNESSY XO</b>
+        </div> 
+        <div class="media-right">
+         $775
+        </div> </li> 
+       <li class="media"> 
+        <div class="media-body">
+         <b>HPNOTIQ</b>
+        </div> 
+        <div class="media-right">
+         $225
+        </div> </li> 
+       <li class="media"> 
+        <div class="media-body">
+         <b>REMY MARTIN CENTAURE</b>
+        </div> 
+        <div class="media-right">
+         $650
+        </div> </li> 
+       <li class="media"> 
+        <div class="media-body">
+         <b>REMY MARTIN 1738 (750ML)</b>
+        </div> 
+        <div class="media-right">
+         $350
+        </div> </li> 
+       <li class="media"> 
+        <div class="media-body">
+         <b>BILLIONARES ROW COGNAC XO</b>
+        </div> 
+        <div class="media-right">
+         $250
+        </div> </li> 
+       <li class="media"> 
+        <div class="media-body">
+         <b>REMY MARTIN VSOP (LITRE)</b> 
+        </div> 
+        <div class="media-right">
+         $275
+        </div> </li> 
+       <li class="media"> 
+        <div class="media-body">
+         <b>REMY XO</b> 
+        </div> 
+        <div class="media-right">
+         $650
+        </div> </li> 
+       <li class="media"> 
+        <div class="media-body">
+         <b>LOUIS XIII BY THE GLASS 1OZ</b> 
+        </div> 
+        <div class="media-right">
+         $225
+        </div> </li> 
+       <li class="media"> 
+        <div class="media-body">
+         <b>REMY MARTIN LOUIS XIII</b>
+        </div> 
+        <div class="media-right">
+         $4500
+        </div> </li> 
+       <li class="text-center"><h3>~ 750 ML BOTTLES ~</h3></li> 
+       <li class="media"> 
+        <div class="media-body">
+         <b>ABSOLUT (750 ML)</b> 
+        </div> 
+        <div class="media-right">
+         $175
+        </div> </li> 
+       <li class="media"> 
+        <div class="media-body">
+         <b> GREY GOOSE (750 ML)</b> 
+        </div> 
+        <div class="media-right">
+         $200
+        </div> </li> 
+       <li class="media"> 
+        <div class="media-body">
+         <b> KETEL ONE (750 ML)</b>
+        </div> 
+        <div class="media-right">
+         $200
+        </div> </li> 
+       <li class="media"> 
+        <div class="media-body">
+         <b>TITO’s (750 ML)</b>
+        </div> 
+        <div class="media-right">
+         $200
+        </div> </li> 
+       <li class="media"> 
+        <div class="media-body">
+         <b>STOLI ELITE (750 ML)</b>
+        </div> 
+        <div class="media-right">
+         $200
+        </div> </li> 
+       <li class="media"> 
+        <div class="media-body">
+         <b>BACARDI (750 ML)</b>
+        </div> 
+        <div class="media-right">
+         $175
+        </div> </li> 
+       <li class="media"> 
+        <div class="media-body">
+         <b>CAPTAIN MORGAN (750 ML)</b>
+        </div> 
+        <div class="media-right">
+         $200
+        </div> </li> 
+       <li class="media"> 
+        <div class="media-body">
+         <b>1800 REPOSADO (750 ML)</b>
+        </div> 
+        <div class="media-right">
+         $200
+        </div> </li> 
+       <li class="media"> 
+        <div class="media-body">
+         <b>JOSE CUERVO ESPECIAL (750 ML)</b>
+        </div> 
+        <div class="media-right">
+         $200
+        </div> </li> 
+       <li class="media"> 
+        <div class="media-body">
+         <b>DON Q COCO (750 ML)</b>
+        </div> 
+        <div class="media-right">
+         $200
+        </div> </li> 
+       <li class="media"> 
+        <div class="media-body">
+         <b> HENNESSEY VS (750 ML)</b>
+        </div> 
+        <div class="media-right">
+         $225
+        </div> </li> 
+       <li class="media"> 
+        <div class="media-body">
+         <b> REMY MARTIN VSOP (750 ML)</b>
+        </div> 
+        <div class="media-right">
+         $200
+        </div> </li> 
+       <li class="media"> 
+        <div class="media-body">
+         <b> JACK DANIELS (750 ML)</b>
+        </div> 
+        <div class="media-right">
+         $200
+        </div> </li> 
+       <li class="media"> 
+        <div class="media-body">
+         <b> CHIVAS 12YR (750 ML)</b>
+        </div> 
+        <div class="media-right">
+         $200
+        </div> </li> 
+       <li class="media"> 
+        <div class="media-body">
+         <b>BELVEDERE (750 ML)</b>
+        </div> 
+        <div class="media-right">
+         $200
+        </div> </li> 
+       <li class="media"> 
+        <div class="media-body">
+         <b> JOHNNIE WALKER BLACK (750 ML)</b>
+        </div> 
+        <div class="media-right">
+         $200
+        </div> </li> 
+      </ul> 
+     </div> 
+    </div> 
+   </div> 
+   <div id="content1_5522" class="container"> 
+    <div class="row"> 
+     <div class="col-sm-12 content-full"> 
+      <p>18% Gratuity will be added to any check over $100<br> If there are multiple or split checks at a table which surpass the $100 together, each individual check will have an 18% gratuity added to it as well.&nbsp;</p> 
+     </div> 
+    </div> 
+   </div> 
+  </div> 
+  <div id="checkoutModal" class="modal" tabindex="-1" role="dialog"> 
+   <div class="modal-dialog" role="document"> 
+    <div class="modal-content"> 
+     <div class="modal-header"> 
+      <h5 class="modal-title">OOPS!</h5> 
+     </div> 
+     <div class="modal-body"> 
+      <p>We encountered the following error while processing your reservation:<br><span id="checkoutError"></span></p> 
+      <p>&nbsp;</p> 
+      <p>If you continue to have issues completing your reservation, please contact us at <a href="tel:(888) 765-6768">(888) 765-6768</a> or click on the "LIVE CHAT" button below to speak with one of our support specialists.</p> 
+     </div> 
+     <div class="modal-footer"> 
+      <button type="button" class="btn btn-secondary" data-dismiss="modal">Close</button> 
+     </div> 
+    </div> 
+   </div> 
+  </div> 
+  <footer class="footer-v1 footer"> 
+   <div class="container bottom-footer"> 
+    <div class="row"> 
+     <div class="col-md-12 no-mods"> 
+      <h3><a href="/"><img src="/images/sites/32/logo.png" alt="Tootsie's Cabaret" class="footer-logo img-responsive"></a></h3> 
+      <div class="footer-about">
+       <p>RCI Internet Services, Inc., All Rights Reserved. Rick’s Cabaret, Club Onyx, Silver City, XTC Cabaret, Foxy’s Cabaret, Hoops Cabaret, The Seville Club and Bombshells Restaurant and Bar are registered trademark of <a href="http://www.rcihospitality.com/" target="_blank">RCI Hospitality Holdings, Inc.</a></p>
+       <p>All links to social media platforms found linked from this website are provided as a service and convenience to our guests. We make no representation concerning the content, quality, accuracy, legality or suitability of their content. Rick's Cabaret makes no endorsement, expressed or implied, to any social media platforms, and as such is not responsible for their content. All photos are stock photos, posed by model.</p>
+       <p><a href="/pressreleases">News</a> | <a href="/other-brands">Other Brands</a> | <a href="/terms-of-service">Terms of Service</a> | <a href="/privacy-policy">Privacy Policy</a> | <a href="/adacompliance.html" target="_blank">ADA Compliance Statement</a></p>
+      </div> 
+      <ul class="list-inline f-social text-center"> 
+       <li> <a class="social-icon social-dark social-rounded social-sm si-colored-facebook" href="https://www.facebook.com/Tootsies.Cabaret.miami" data-toggle="tooltip" title="Tootsie's Cabaret Facebook Page" data-original-title="Facebook"><i class="fa fa-facebook"></i></a> </li> 
+       <li> <a class="social-icon social-dark social-rounded social-sm si-colored-twitter" href="https://twitter.com/Tootsiescabaret" data-toggle="tooltip" title="Tootsie's Cabaret Twitter Page" data-original-title="Twitter"><i class="fa fa-twitter"></i></a> </li> 
+       <li> <a class="social-icon social-dark social-rounded social-sm si-colored-instagram" href="https://www.instagram.com/tootsiescabaret/?hl=en" data-toggle="tooltip" title="Tootsie's Cabaret Instagram Page" data-original-title="Instagram"><i class="fa fa-instagram"></i></a> </li> 
+       <li> <a class="social-icon social-dark social-rounded social-sm si-colored-g-plus" href="https://plus.google.com/+TootsiesCabaretMiami" data-toggle="tooltip" title="Tootsie's Cabaret Google+ Page" data-original-title="Google+"><i class="fa fa-google-plus"></i></a> </li> 
+       <li> <a class="social-icon social-dark social-rounded social-sm si-colored-yelp" href="https://www.yelp.com/biz/tootsies-cabaret-miami" data-toggle="tooltip" title="Tootsie's Cabaret Yelp Page" data-original-title="Yelp"><i class="fa fa-yelp"></i></a> </li> 
+       <li> <a class="social-icon social-dark social-rounded social-sm si-colored-youtube" href="https://www.youtube.com/channel/UCwDtO0UwvImshtF0iraydvA" data-toggle="tooltip" title="Tootsie's Cabaret YouTube Page" data-original-title="Yelp"><i class="fa fa-youtube"></i></a> </li> 
+      </ul> 
+      <p class="footer-copyright"><a href="/">Tootsie's Cabaret</a> - Copyright 2017.</p> 
+     </div> 
+    </div> 
+    <div class="space-30"></div> 
+   </div> 
+  </footer> 
+  <script src="//code.jquery.com/jquery-2.1.1.min.js"></script> 
+  <script src="//code.jquery.com/ui/1.12.1/jquery-ui.min.js"></script> 
+  <script src="//maxcdn.bootstrapcdn.com/bootstrap/3.3.7/js/bootstrap.min.js"></script> 
+  <script src="//cdnjs.cloudflare.com/ajax/libs/modernizr/2.8.3/modernizr.min.js"></script> 
+  <script src="//cdnjs.cloudflare.com/ajax/libs/jquery-validate/1.17.0/jquery.validate.min.js" type="text/javascript"></script> 
+  <script src="//cdnjs.cloudflare.com/ajax/libs/jquery.matchHeight/0.7.2/jquery.matchHeight-min.js" type="text/javascript"></script> 
+  <script src="//cdnjs.cloudflare.com/ajax/libs/jquery.mb.YTPlayer/3.1.5/jquery.mb.YTPlayer.min.js"></script> 
+  <script src="//cdnjs.cloudflare.com/ajax/libs/OwlCarousel2/2.0.0-beta.2.4/owl.carousel.min.js" type="text/javascript"></script> 
+  <script src="//cdnjs.cloudflare.com/ajax/libs/mixitup/1.5.6/jquery.mixitup.min.js" type="text/javascript"></script> 
+  <script src="//maps.google.com/maps/api/js?v=3.exp&amp;callback=viralise_init_ac5127b00dfa053aeb182e14150e8e33&amp;key=AIzaSyDPBNvMerS0HZu-Kn-v8rTua75qDbqSKKM" type="text/javascript" defer></script> 
+  <script src="/js/jquery.prettyPhoto.min.js" type="text/javascript"></script> 
+  <script src="//cdnjs.cloudflare.com/ajax/libs/magnific-popup.js/1.1.0/jquery.magnific-popup.min.js" type="text/javascript"></script> 
+  <script src="/js/revolution/jquery.themepunch.plugins.min.js" type="text/javascript"></script> 
+  <script src="/js/revolution/jquery.themepunch.revolution.min.js" type="text/javascript"></script> 
+  <script src="/js/modules/_utilities.js?v=1.3"></script> 
+  <script src="/js/modules/mod_bottlePackages_html.js?v4.3"></script> 
+  <script src="/js/modules/mod_employmentForm.js?v2.5"></script> 
+  <script src="/js/modules/mod_entertainerForm.js?v1"></script> 
+  <script src="/js/modules/mod_contactForm1.js?v2.2"></script> 
+  <script src="/js/modules/mod_ctaSubscribeCoupon.js?v2.2"></script> 
+  <script src="/js/modules/mod_newsletterPopup.js?v1.1"></script> 
+  <script src="/js/modules/mod_callMailFollow.js?v2.2"></script> 
+  <script src="/js/modules/mod_footer1.js?v2.2"></script> 
+  <script src="/js/modules/mod_gallery1_tm.js?v1"></script> 
+  <script src="/masterslider/masterslider.min.js"></script> 
+  <script src="/bower_components/lightbox2/dist/js/lightbox.min.js"></script> 
+  <script src="/js/html5lightbox/html5lightbox.js" type="text/javascript"></script> 
+  <script src="/js/google-map.js" async defer></script> 
+  <script src="/js/all.js?v2" type="text/javascript"></script> 
+  <script type="text/javascript">
+$(function(){
+$(".player").mb_YTPlayer();
+});
+$('.hero1.carousel,.ctaBanner1.carousel').carousel();
+viralise_init_ac5127b00dfa053aeb182e14150e8e33 = function(){};
+tjMemberID = '1000691801';
+tjCallID = '1000151921';
+tjMapID = '1000151931';
+</script> 
+  <script type="text/javascript">
+window.lhnJsSdkInit = function () {
+lhnJsSdk.setup = {
+application_id: "ca26674f-f0c4-8d49-9b16-47bc825e6966",
+application_secret: "lctjbdcskej2hytmzcnhjj5kbs9+ezh+qs7v7fsocv1/ouccz5"
+};
+lhnJsSdk.controls = [{
+type: "hoc",
+id: "5fa87105-4c2f-49ea-b55f-ee4aad1b43f6"
+}];
+};
+(function (d, s) {
+var newjs, lhnjs = d.getElementsByTagName(s)[0];
+newjs = d.createElement(s);
+newjs.src = "https://developer.livehelpnow.net/js/sdk/lhn-jssdk-current.min.js";
+newjs.setAttribute('async', 'true');
+newjs.setAttribute('defer', 'true');
+lhnjs.parentNode.insertBefore(newjs, lhnjs);
+}(document, "script"));
+</script> 
+  <script type="application/javascript" src="https://sdki.truepush.com/sdk/v2.0.3/app.js" async></script> 
+  <script type="text/javascript">
+var truepush = window.truepush || [];
+truepush.push(function(){
+truepush.Init({
+id: "5dd42271a6d8035593b7144a",
+userConsent: "allowed_cookies_personal_data"
+}, function(error){
+// if(error) console.error(error);
+})
+})
+var truePushModulePresent = true;
+</script>   
+ </body>
+</html>
